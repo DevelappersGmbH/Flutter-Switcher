@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Switcher</string>
+    <string name="switchText">Switch</string>
+    <string name="go_to_flutter">Go to flutter</string>
+</resources>
